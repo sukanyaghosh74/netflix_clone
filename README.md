@@ -3,7 +3,7 @@
 A beautifully designed **Netflix landing page clone** built using **HTML, CSS, JavaScript, and Bootstrap**.
 This project replicates the look and feel of Netflix’s official interface while showcasing responsive design, clean UI, and interactive components.
 
-> 📺 **Live Demo**: [https://netflix-clone-one-khaki.vercel.app/](netflix-clone-one-khaki.vercel.app)
+> 📺 **Live Demo**: [https://netflix-clone-one-khaki.vercel.app/](https://netflix-clone-one-khaki.vercel.app/)
 
 ---
 
